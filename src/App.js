@@ -5,6 +5,7 @@ import Pages from './pages/Pages';
 function App() {
   return (
     <div className="App">
+      <h1>Preview</h1>
       <BrowserRouter>
         <Search/>
         <Category/>
